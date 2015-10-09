@@ -1,0 +1,52 @@
+### SETUP PROCESS STARTED ###
+### SETUP PROCESS FINISHED ###
+[I 02:34:59.060 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.ipython/profile_default/security/notebook_cookie_secret
+[I 02:34:59.061 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[I 02:34:59.112 NotebookApp] Serving notebooks from local directory: /mnt
+[I 02:34:59.112 NotebookApp] 0 active kernels 
+[I 02:34:59.113 NotebookApp] The IPython Notebook is running at: http://172.17.4.59:8888/jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4/
+[I 02:34:59.113 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:34:59.113 NotebookApp] No web browser found: could not locate runnable browser.
+[I 02:35:08.733 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (54.92.133.255) 0.54ms
+[I 02:35:10.331 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (54.92.133.255) 0.36ms
+[I 02:37:15.096 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 02:37:15.102 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4/ (10.0.0.198) 0.29ms
+[I 02:37:22.957 NotebookApp] Writing notebook-signing key to /home/ubuntu/.ipython/profile_default/security/notebook_secret
+[W 02:37:22.961 NotebookApp] Notebook ChE Problem Solving.ipynb is not trusted
+[I 02:37:24.265 NotebookApp] Kernel started: 363aa460-ca60-494c-b468-d293d0764270
+[I 02:37:25.124 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.35ms
+[I 02:39:20.730 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (54.92.133.255) 0.34ms
+[I 02:39:25.802 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 02:39:27.152 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 02:39:27.153 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 02:41:26.033 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 02:41:27.397 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 02:41:27.399 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 02:43:25.821 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 02:43:27.199 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 02:43:27.201 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 02:44:31.965 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 02:44:34.509 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 02:44:34.510 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 02:44:35.077 NotebookApp] Kernel shutdown: 363aa460-ca60-494c-b468-d293d0764270
+[I 03:51:12.726 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.34ms
+[I 03:51:12.731 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4/ (10.0.0.198) 0.29ms
+[W 03:51:15.828 NotebookApp] Notebook ChE Problem Solving.ipynb is not trusted
+[I 03:51:17.572 NotebookApp] Kernel started: 7fd15b65-3cb6-4976-ba77-fcbe30ba42ed
+[I 03:53:20.365 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.36ms
+[I 03:53:21.700 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 03:53:21.702 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 03:55:18.913 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.34ms
+[I 03:55:20.262 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 03:55:20.263 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 03:57:18.762 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.34ms
+[I 03:57:20.122 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 03:57:20.123 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 03:59:18.783 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.34ms
+[I 03:59:20.011 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[W 03:59:20.014 NotebookApp] Saving untrusted notebook ChE Problem Solving.ipynb
+[I 03:59:34.895 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.33ms
+[I 03:59:35.305 NotebookApp] Kernel restarted: 7fd15b65-3cb6-4976-ba77-fcbe30ba42ed
+[I 04:00:15.904 NotebookApp] 302 GET /jakealbrecht/ChE_problemSolving/notebookSession/561727d4e4b09a6c0bafd4e4 (10.0.0.198) 0.37ms
+[I 04:00:17.287 NotebookApp] Saving file at /ChE Problem Solving.ipynb
+[I 04:00:25.333 NotebookApp] Kernel shutdown: 7fd15b65-3cb6-4976-ba77-fcbe30ba42ed
